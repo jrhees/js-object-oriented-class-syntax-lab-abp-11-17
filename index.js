@@ -14,7 +14,7 @@ class BoardMember {
     return "I like to help people."
   }
 //
-  eleasePressStatement(){
+  releasePressStatement(){
     return "You will see great things from Scuber."
   }
 //
